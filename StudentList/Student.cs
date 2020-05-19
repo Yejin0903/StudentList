@@ -9,9 +9,13 @@ namespace StudentList
     class Student
     {
         public string id;
-        public string name;
-        public int grade;
-        public string major;
-        public DateTime birthday;
+        public string publish;
+        public string author;
+        public string bringPerson;
+        public string bringPlace;
+        public string response;
+        public string plan;
+        public string edit;
+        public string design;
     }
 }
